@@ -50,7 +50,7 @@ span {
 }
 
 .bg-top-image {
-  background-image: url("/Users/khayrulshahrilmbp/Desktop/syntax lab resources/Udemy/Dr Angela Yu /Web Development/Frontendmentor/profile-card-component-main/images/bg-pattern-top.svg");
+  background-image: url("https://github.com/khayrulshahril/frontend_profile_card_component/tree/main/images/bg-pattern-top.svg");
   background-repeat: no-repeat;
   position: absolute;
   height: 978px;
@@ -61,7 +61,7 @@ span {
 }
 
 .bg-bottom-image {
-  background-image: url("/Users/khayrulshahrilmbp/Desktop/syntax lab resources/Udemy/Dr Angela Yu /Web Development/Frontendmentor/profile-card-component-main/images/bg-pattern-bottom.svg");
+  background-image: url("https://github.com/khayrulshahril/frontend_profile_card_component/tree/main/images/bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   position: relative;
   height: 400px;
@@ -96,6 +96,7 @@ span {
   top: 200px;
   border-radius: 10px;
   box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  z-index: 1;
 }
 
 .card-image-top {
