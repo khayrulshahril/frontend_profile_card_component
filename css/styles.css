@@ -56,7 +56,7 @@ span {
   height: 978px;
   width: 978px;
   margin: 0;
-  right: 720px;
+  right: 750px;
   bottom: 300px;
 }
 
@@ -65,9 +65,9 @@ span {
   background-repeat: no-repeat;
   position: relative;
   height: 400px;
-  width: 978px;
+  width: 800px;
   left: 670px;
-  top: 0px;
+  top: 40px;
   margin: 0;
 }
 
@@ -118,6 +118,7 @@ span {
 .attribution {
   font-size: 11px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .attribution a {
@@ -126,7 +127,6 @@ span {
 
 .bottom-container {
   margin: 0 auto;
-  padding:10px;
 }
 
 
