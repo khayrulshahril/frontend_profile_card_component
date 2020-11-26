@@ -50,7 +50,6 @@ span {
 }
 
 .bg-top-image {
-  background-image: url("https://raw.githubusercontent.com/khayrulshahril/frontend_profile_card_component/9a96373783630461a449a94c009d89ed43e43146/images/bg-pattern-top.svg");
   background-repeat: no-repeat;
   position: absolute;
   height: 978px;
@@ -61,13 +60,9 @@ span {
 }
 
 .bg-bottom-image {
-  background-image: url("images/bg-pattern-bottom.svg");
   background-repeat: no-repeat;
   position: relative;
-  height: 400px;
-  width: 800px;
-  left: 670px;
-  top: 40px;
+  left: 450px;
   margin: 0;
 }
 
@@ -127,4 +122,5 @@ span {
 
 .bottom-container {
   margin: 0 auto;
+  height: auto;
 }
