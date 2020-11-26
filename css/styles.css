@@ -1,0 +1,136 @@
+body {
+  background-color: hsl(185, 75%, 39%);
+  margin: 0;
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+img {
+  position: absolute;
+}
+
+a {
+  color: hsl(228, 45%, 44%);
+}
+
+table {
+  background-color: white;
+  position: relative;
+}
+
+h3 {
+  margin: 80px auto 0;
+  padding: 10px;
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+}
+
+p {
+  margin: 0 auto;
+  color: hsl(0, 0%, 59%);
+}
+
+td {
+  padding: 4px 10px 0;
+}
+
+hr {
+  border-bottom: none;
+  border-top: solid;
+  border-top-width: 1px;
+  border-top-color: #EAF6F6;
+  margin: 20px auto 10px;
+}
+
+span {
+  color: hsl(0, 0%, 59%);
+  font-weight: 400;
+  padding: 0 6px;
+}
+
+.bg-top-image {
+  background-image: url("/Users/khayrulshahrilmbp/Desktop/syntax lab resources/Udemy/Dr Angela Yu /Web Development/Frontendmentor/profile-card-component-main/images/bg-pattern-top.svg");
+  background-repeat: no-repeat;
+  position: absolute;
+  height: 978px;
+  width: 978px;
+  margin: 0;
+  right: 720px;
+  bottom: 300px;
+}
+
+.bg-bottom-image {
+  background-image: url("/Users/khayrulshahrilmbp/Desktop/syntax lab resources/Udemy/Dr Angela Yu /Web Development/Frontendmentor/profile-card-component-main/images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat;
+  position: relative;
+  height: 400px;
+  width: 978px;
+  left: 670px;
+  top: 0px;
+  margin: 0;
+}
+
+.numbers-likes {
+  margin: auto;
+  letter-spacing: 2px;
+  border-spacing: 5px;
+}
+
+.row-numbers {
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+}
+
+.row-likes {
+  font-size: 10px;
+  color: hsl(0, 0%, 59%);
+}
+
+.profile-name {
+  background-color: white;
+  width: 350px;
+  height: 380px;
+  margin: 0 auto;
+  position: relative;
+  top: 200px;
+  border-radius: 10px;
+  box-shadow: 0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+  z-index: 1;
+}
+
+.card-image-top {
+  width: 350px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  position: relative;
+}
+
+.profile-image {
+  position: absolute;
+  margin: 0 auto;
+  top: 90px;
+  left: 120px;
+  border-radius: 70px;
+  border: 6px solid white;
+}
+
+.attribution {
+  font-size: 11px;
+  margin: 0 auto;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.bottom-container {
+  margin: 0 auto;
+  padding:10px;
+}
+
+
+@viewport {
+  min-width: 375px;
+  max-width: 1440px;
+}
