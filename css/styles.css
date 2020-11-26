@@ -50,7 +50,7 @@ span {
 }
 
 .bg-top-image {
-  background-image: url("images/bg-pattern-top.svg");
+  background-image: url("https://raw.githubusercontent.com/khayrulshahril/frontend_profile_card_component/9a96373783630461a449a94c009d89ed43e43146/images/bg-pattern-top.svg");
   background-repeat: no-repeat;
   position: absolute;
   height: 978px;
