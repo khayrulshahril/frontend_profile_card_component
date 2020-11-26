@@ -128,9 +128,3 @@ span {
 .bottom-container {
   margin: 0 auto;
 }
-
-
-@viewport {
-  min-width: 375px;
-  min-width: 1440px;
-}
